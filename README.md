@@ -4,12 +4,12 @@
 
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Mr_axrorbe)
 
 ### Social media: 📡  
 I have a telegram channel where I share my thoughts, successes and failures. And, yes, I'm into cyberpunk.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_axrorbe)
 
 ### Competitions: 🥇
 - [LeetCode](https://leetcode.com/sammorozov/)
