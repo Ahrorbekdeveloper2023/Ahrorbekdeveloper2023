@@ -9,7 +9,7 @@
 ### Social media: 📡  
 I have a telegram channel where I share my thoughts, successes and failures. And, yes, I'm into cyberpunk.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_axrorbe)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/python_worldd)
 
 ### Competitions: 🥇
 - [LeetCode](https://leetcode.com/sammorozov/)
